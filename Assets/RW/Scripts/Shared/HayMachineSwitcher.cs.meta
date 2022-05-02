@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6088c7bc3f2118b4c972f8de9e5dcd1e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - blueHayMachine: {instanceID: 0}
+  - yellowHayMachine: {instanceID: 0}
+  - redHayMachine: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
